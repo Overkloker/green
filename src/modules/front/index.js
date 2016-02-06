@@ -1,3 +1,3 @@
-//import "./application"
-//
-//import "./controllers/todof.app.ctrl.js"
+import "./application.js";
+
+import "./controllers/todo.app.ctrl.js";
