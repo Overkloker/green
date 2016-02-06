@@ -1,0 +1,11 @@
+{
+  "name" : "green",
+  "version" : "0.0.1",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1",
+    "server" : "webpack-dev-server --content-base build -ebug --output-pathinfo --colors --devtool source-map --port 5000"
+  },
+  "browser" : {
+    "angularjs" : "bower_components/angular/angular.js"
+  }
+}
